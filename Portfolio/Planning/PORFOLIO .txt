@@ -1,0 +1,112 @@
+PORFOLIO 
+
+Time Spent: 104 hours, 17 mins, 38 sec
+ 
+Game Assets link after uploading them on the asset store: xxxx
+
+mega slasher video: https://drive.google.com/file/d/1FsYHF8Mbt5qpu8Hi92rHwazd2yszYJoz/view?usp=sharing
+monster chase video: https://drive.google.com/file/d/1o9KV-Mr7zbg9kVJ2fRhaxtjNlVv_EfN3/view?usp=sharing
+kitchen chaos video: https://drive.google.com/file/d/1aQ7rJL4bd8tVoiYbQFk5K1aVsyaNQ8UM/view?usp=sharing
+deaf & dumb communication app video: https://drive.google.com/file/d/1oCCF7ImcnBIf5uB17mqGf2I0g8isKc2J/view?usp=sharing
+add a 1 min long show reel with above 4 as well as complete portfolio. Before portfolio is completed, feel free to add: https://drive.google.com/file/d/1ji8BDZ8yOYI1zEGk3OJqZfvM0YP0LyXt/view?usp=drive_link
+all pc_screen_2_b stuff: https://github.com/IFatima163
+
+add clickable link (opens popup) of portfolio on resume & vise versa
+
+clickable links of Linkedin/ github/ itch.io/ email, etc to still/ pdf portfolio
+
+On the still portfolio/ pdf - add a note informing when was the last update of this pdf & to get the latest version of the portfolio (in case the one available is old), feel free to a. reach out, b. download the latest version from the interactive portfolio website. Also, inform in the details of the interactive portfolio website when was it last updated
+
+========================================================================================================================================================
+GENERAL: Point 1, Point 2
+SECTIONS: About (Point 3), Projects (Point 4), Resume, Contact & Reviews (Point 5)
+
+PLANNING:
+2D common room with a route in each direction (top, down, left, right like FNAF)
+OR
+1 giant 2D room with everything scattered around & you have to make your way around to understand
+
+	In About section (/of) room: 
+		a family portrait 
+		a To Do list. On the to do list: 
+			A star sign point telling INFP line from resume & Point 3
+			A Box that has been ticked showing current position as game dev & ghost writer
+			Languages?
+		old calender pages showing my graduation date, & my birthday
+	In Projects section (/of) room: A book shelf, and a PC
+		Book shelf: shows all writing work as books (clicking redirects to that document in drive), how to origami book
+		PC: a folder for all games where each is a folder in itself with three sub folders: Games, Trailers, Dev Process & Introduction
+			In the games folder (when clicked) shows all of the games with their thumb nails. When clicked, redirects to the game ready to be played on itch.io
+			In the trailer folder, shows which YT video was followed & a mini play through. This plays in-game WITH MUSIC, no new popup
+			In the dev process thing: show pics of "under-construction/ Work in progress", a mini word-like document or notepad like document telling about
+	In Resume section (/of) room: 
+		A map on wall (showing MAJU, Govt college sheikh zaid, IMS & Map labelled as Karachi, Sindh, Pakistan)
+		My degree, awards, certificates hanging on same wall besides map
+		a single sticky note with link to real resume
+		a single sticky note with linkedin
+		A file on the table (kind of like a criminal record book thing) with sticky notes hanging. Each sticky note shows a different page aka different experience
+		Chess, art stuff, origami, something anime-ish, etc scattered on the floor to indicate hobbies. Each hobby is interactable for further details about the hobby
+		A book type thing on table that has each skill written with 5 empty circles to its right (scale of 1-5 with skill rating ticked)
+	In Contact & Reviews section (/of) room:  
+		a digital phone besides the landline phone with gmail-ish app opened. You can see my email at top as "reciever". You can type & send the email. May be get a confirmation notification
+		A phone book sized photo album on the phone table which holds screenshots of People's reviews about me.... then afew empty pages ?
+========================================================================================================================================================
+Floor Plan:
+
+	Family Portrait: Bed room
+	To do, Calender stuck on march, book shelf, pc: study
+	Map, Degree, Awards, Certificates, Sticky Notes, chess set, smart phone, phone book: tv room
+	File on Table, Origami, Art, Clip board with pen to tick: common room
+========================================================================================================================================================
+Interactables: 
+
+Family Portrait, To Do List, Calender stuck on March, Book shelf, PC, Map, Degree, Awards, Certificates, Sticky Notes 2, File on Table, Chess, 
+Origami, Art, SVT, Mangas, Games, Anime, Kdrama, Clip board with pen to tick, Smart Phone, Phone Book, TV
+
+Upon Interaction:		
+
+		Common room: 
+			Clip board shows skill survey type thing filled, 
+			file zooms in which upon another click scatters all the pages showing experiences,
+			easel area zooms in on easel & origami frame which upon individual interaction show dialogue about the interest
+		Bed room:
+			Family portrait: starts dialogue around being middle child
+			Svt albums are zoomed in on click and a dialogue box states the love for those albums
+			Manga also zooms in then states "love of reading books & mangas & Akagami no Shirayuki hime being all time fav manga"
+		Study:
+			To Do List: Pops up to show ticked stuff, etc
+			Calender: pops up to march with the dates of graduation & bday highlighted
+			Bookshelf: zooms in on organized books each with name of article written on it. dialogue states "click to redirect to article"
+			PC: zooms in to show folders -> each shows the games, their bts if any, details, & link (or popup) to play the game
+		TV room:
+			Left wall stuff: zoom in general to all of the stuff which then individually zoom in on the item at hand & each item holds its own dialog box
+			Right wall stuff: zoom in general to all of the stuff then further zoom to show written stuff on phone screen or sticky notes
+			TV: click to zoom, again click to turn on -> all visual entertainment stuff shows up along with dialogue boxes
+			Chess: zoom in to show an ongoing match. mention the serious part of the match then mention love for game as a dialogue box
+			papers on table: zoom in to show screenshots/ written reviews of past clients
+========================================================================================================================================================
+1. Make sure portfolio is adaptive to PC & mobile, make it look pretty but easy to navigate
+========================================================================================================================================================
+2. Make two types of portfolio (1 normal pdf-ish, 1 game. When starting game you are asked if want to play the portfolio as a game or would you rather just scroll through 
+the pdf with estimated time to get through each of them)
+
+It is possible to have a portfolio game that redirects to other games when button clicked. All can be hosted on itch.io for free
+========================================================================================================================================================
+3. I took a screen shot on 20.4.24 at around 12.30 am or something. Check that > it was nice about info thing
+========================================================================================================================================================
+* = important to add
+
+4. Add video, screenshots, & description
+	a. GIFs/ video no longer than 3 mins with all Highlights, main menu*, audio*,  settings*
+	b. download/ play online links to download the game from slack, itch.io or somewhere
+	c. add source code if its clean-ish
+	d. downloadable link to resume. Add clickable link on resume to your portfolio NOT copy then paste BUT click & redirect
+	e. A "Showreel" comprising to 1 min or a min and half or something comprising of all the work you've done in a single video (like my "Gaming Vid")
+	f. clickable link to redirect Linkedin/ github/ itch.io/ slack/ email, etc to new page
+	g. "development process/ Development Log" like Dean Tate's Portfolio showing their daily thought process 
+	h. section personal projects, internship, etc then sub-section 3D, 2D, etc
+	i. add at least 2 original 2D games, 2 original 3D games, 2 copies of existing 2D games, 2 copies of existing 3D game, 2 games that GPT made me do it, etc
+	j. lastly, add section for other projects
+========================================================================================================================================================
+5. add option to send msg on the website
+========================================================================================================================================================
